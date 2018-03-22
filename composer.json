@@ -1,6 +1,6 @@
 {
-    "name": "koraktor/steam-condenser",
-    "version": "1.3.10",
+    "name": "jouva/steam-condenser",
+    "version": "1.3.11",
     "description": "The Steam Condenser is a library for querying the Steam Community, Source and GoldSrc game servers",
     "keywords": [ "steam", "query", "source", "goldsrc", "community", "webapi" ],
     "homepage": "http://koraktor.de/steam-condenser",
@@ -9,6 +9,10 @@
         {
             "name": "Sebastian Staudt",
             "email": "koraktor@gmail.com"
+        },
+        {
+            "name": "Jouva",
+            "email": "jouva@moufette.com"
         }
     ],
     "support": {
